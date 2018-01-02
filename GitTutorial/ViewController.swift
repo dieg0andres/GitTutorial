@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     override func didReceiveMemoryWarning() {
-        print("why is this so hard")
+        print("why is this so hard   ljkdfasldsafldfsl;dfsal")
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
